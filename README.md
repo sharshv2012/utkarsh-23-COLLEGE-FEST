@@ -1,4 +1,4 @@
-# utkarsh-23
+# utkarsh-23 COLLEGE EVENT 
 # This is the code to the application made for my college event i.e. UTKARSH'23 .
 # The app was developed by me and my team.
 # It's made using flutter framework .
